@@ -9,17 +9,16 @@ Usage:
 
  ./demotetizator.sh <filename.doc>
 
- output:
+Output:
  
-filename.doc.ps: the powershell downloader payload
+ filename.doc.ps: the powershell downloader payload
 
-urls.txt: the extracted urls
+ urls.txt: the extracted urls
 
-binary.txt: downloaded binary sample file types, md5 and sha256 hashes
+ binary.txt: downloaded binary sample file types, md5 and sha256 hashes
 
-doc.txt: md5 and sha256 hashes of the maldoc
+ doc.txt: md5 and sha256 hashes of the maldoc
 
-\*.exe: downloaded binary samples
+ \*.exe: downloaded binary samples
 
-wget.log: output from wget to check which URLs are working
-
+ wget.log: output from wget to check which URLs are working
